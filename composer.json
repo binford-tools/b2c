@@ -1,6 +1,6 @@
 {
-    "name":        "binford-tools/project",
-    "description": "A template for custom Magento 2 projects.",
+    "name":        "binford-tools/b2c",
+    "description": "A Magento 2-based B2C online store for Binford® Tools Home.",
     "type":        "project",
     "license":     "MIT",
     "repositories":
