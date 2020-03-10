@@ -1,6 +1,6 @@
-# Binford® Tools: Project 
+# Binford® Tools: B2C 
 
-A template for custom [Magento 2][1] projects.
+A [Magento 2][1]-based B2B online store for Binford® Tools Home.
 
 ## Intro
 
